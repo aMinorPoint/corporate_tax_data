@@ -1,7 +1,7 @@
-# Data on corporate taxes and how companies use their profits
+## Data on corporate taxes and how companies use their profits
 The data below was used to create [this](http://www.aminorpoint.com/blog/corporate_taxes_and_profit_uses/) post exploring corporate income taxes in the US.
 
-# Data files and sources sources
+## Data files and sources
 <ul>
 <li>federal_corporate_tax_receipts.csv - Tax recepits be year, in $ billions - available in the <a href="https://www.fiscal.treasury.gov/fsreports/rpt/mthTreasStmt/backissues.htm"><u>Monthly Treasury Statements</u></a> from the US Department of the Treasury.</li>
 			<br>
